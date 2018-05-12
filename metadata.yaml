@@ -1,0 +1,29 @@
+_repo: Studies-in-Spermatogenesis--Part-2-of-2-_31546
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stevens, N. M. (Nettie Maria)
+    alias: Stevens, Nettie Maria
+    birthdate: 1861
+    deathdate: 1912
+    gutenberg_agent_id: '35315'
+    url: http://www.gutenberg.org/2009/agents/35315
+    wikipedia: http://en.wikipedia.org/wiki/Nettie_Stevens
+description: ''
+gutenberg_issued: '2010-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31546'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Spermatogenesis'
+- !lcsh 'Sex'
+title: Studies in Spermatogenesis (Part 2 of 2)
+url: http://www.gutenberg.org/ebooks/31546
